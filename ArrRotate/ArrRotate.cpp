@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-void ArrRotate(int array[], int n_, int k_);
+void ArrRotate(int array[], int n, int k);
 
 int main()
 {
